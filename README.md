@@ -34,7 +34,7 @@ Equivalent configuration will be necessary in `config/production.rb` or `applica
 
 ### Storybook Installation
 
-1. Add Storybook server as a dev dependedncy. The Storybook Controls addon isn't needed but is strongly recommended
+1. Add Storybook server as a dev dependency. The Storybook Controls addon isn't needed but is strongly recommended
    ```sh
    yarn add @storybook/server @storybook/addon-controls --dev
    ```
